@@ -1,2 +1,7 @@
-192.168.1.50
-192.168.1.51
+# Raspberry Pi's for DNS
+192.168.1.51 ns1a.lan.escue.net
+192.168.1.52 ns1b.lan.escue.net
+192.168.1.61 ns2a.lan.escue.net
+192.168.1.62 ns2b.lan.escue.net
+
+
